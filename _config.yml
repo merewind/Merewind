@@ -16,7 +16,7 @@
 title: Merewind Corp
 email: info@merewind.ca
 description: > # this means to ignore newlines until "baseurl:"
-   This is a corporate site if the Merewind Corp. 
+   This is a corporate site of the Merewind Corp. Network and Cloud consulting corpotation.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.merewind.ca" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
